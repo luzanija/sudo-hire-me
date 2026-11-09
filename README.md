@@ -1,9 +1,9 @@
-# My Cybersecurity Journey
+# A Series of Educated Guesses
 *Fueled by curiosity, caffeine, and “let me try one more thing.”*
 
 ## About Me
 
-My interest in technology and cybersecurity goes back more than 20 years. I’ve always enjoyed figuring out how things work, solving problems, and finding something new to learn. I’m currently finishing the Bachelor of Applied Cybersecurity (BACS) program at SANS Technology Institute and hold nine GIAC certifications.
+My interest in technology and cybersecurity goes back more than 20 years. I’ve always enjoyed figuring out how things work, solving problems, and learning something new. I’m currently finishing the Bachelor of Applied Cybersecurity (BACS) program at SANS Technology Institute and hold nine GIAC certifications.
 
 This portfolio documents my progress as I continue building my skills. After two decades of learning, my list of things to explore somehow keeps getting longer.
 
@@ -11,9 +11,9 @@ This portfolio documents my progress as I continue building my skills. After two
 
 Over the past two months, I participated in National Cyber League (NCL) Capture the Flag competitions, applying classroom knowledge to hands-on cybersecurity challenges. The experience pushed me to investigate unfamiliar problems, connect evidence across different sources, and keep working when the first approach didn’t produce an answer.
 
-One of my biggest takeaways was the value of a systematic process. I became more deliberate about understanding the question, choosing an approach, checking results, and documenting enough evidence to explain how I reached a conclusion. I also learned to recognize when to change direction instead of spending another hour convincing an unsuccessful approach to work.
+One of my biggest takeaways was the value of a systematic process. I became more deliberate about understanding the question, choosing an approach, checking results, and documenting enough evidence to explain my conclusion. I also learned to recognize when to change direction instead of spending another hour trying to make an unsuccessful approach work.
 
-Team participation added another dimension to that experience. Working with a seven-person team reinforced the importance of clear communication, reproducible notes, and independent verification. Solving a challenge was rewarding; giving a teammate enough information to independently confirm the result made the work stronger.
+Team participation added another dimension to that experience. Working with a seven-person team reinforced the importance of clear communication, reproducible notes, and independent verification. Solving a challenge was rewarding; giving a teammate enough information to independently confirm the result strengthened the work.
 
 ## Areas I Practiced
 
