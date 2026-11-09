@@ -31,9 +31,9 @@ Team participation added another dimension to that experience. Working with a se
 
 ## Highlights
 
-- **Placed 469th out of 6,371 participants** in an individual competition—within the top 7.4%.
-- Gained hands-on practice across **nine cybersecurity skill areas**.
-- Collaborated with a **seven-person team**, using independent verification to strengthen confidence in our answers.
+- Placed 469th out of 6,371 participants in an individual competition—within the top 7.4%.
+- Gained hands-on practice across nine cybersecurity skill areas.
+- Collaborated with a seven-person team, using independent verification to strengthen confidence in our answers.
 - Improved my ability to turn investigative work into clear, reproducible documentation.
 - Built confidence approaching unfamiliar problems and learning new tools along the way.
 
