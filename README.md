@@ -1,5 +1,5 @@
 # A Series of Educated Guesses
-*Fueled by curiosity, caffeine, and “let me try one more thing.”*
+*Turning caffeine and questionable guesses into cybersecurity skills...one CTF at a time.*
 
 ## About Me
 
