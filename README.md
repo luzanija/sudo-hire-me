@@ -42,4 +42,4 @@ Team participation added another dimension to that experience. Working with a se
 
 ## Score Reports
 
-*Public links to my individual and team score reports will be added here.*
+*Public links to my individual and team score reports will be added here when available from Cyberskyline.com.*
