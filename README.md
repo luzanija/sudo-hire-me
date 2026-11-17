@@ -32,7 +32,7 @@ Team participation added another dimension to that experience. Working with a se
 ## Highlights
 
 - Finished in the top 20% in my first-ever CTF, placing 70th out of 407 participants in the Experienced Student bracket.
-- Our seven-person team placed 64th out of 292 teams in the Experienced Team bracket, finishing in the top 25% in the NCL Team Game.
+- Our seven-person team placed 62nd out of 292 teams in the Experienced Team bracket, finishing in the top 25% in the NCL Team Game.
 - Gained hands-on practice across nine cybersecurity skill areas.
 - Collaborated with a seven-person team, using independent verification to strengthen confidence in our answers.
 - Improved my ability to turn investigative work into clear, reproducible documentation.
