@@ -42,4 +42,6 @@ Team participation added another dimension to that experience. Working with a se
 
 ## Score Reports
 
-*Public links to my individual and team score reports will be added here when available from Cyberskyline.com.*
+- Cyber Skyline National Cyber League Fall 2026 Season Individual Games - https://cyberskyline.com/report/4MQFVY4NQLRA
+- Cyber Skyline National Cyber League Fall 2026 Season Team Games - https://cyberskyline.com/report/7DH9QA15PUEK
+  
